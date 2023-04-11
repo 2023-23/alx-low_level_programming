@@ -5,7 +5,7 @@
  * check - checks to see if number is prime
  * @a:int
  * @b:int
- * Reurn:int
+ * Return: int
  */
 int check(int a, int b)
 {
